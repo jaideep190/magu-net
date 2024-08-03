@@ -79,8 +79,8 @@ function Dataset() {
           flexDirection: 'column', // Changed from 'row' to 'column'
           alignItems: 'center', // Center the images vertically
         }}>
-          <img src="/images/data1.png" alt="data1" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/data2.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px' }} />
+          <img src="/images/data1.png" alt="data1" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/data2.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
         </div>
       </Content>
     </Section>

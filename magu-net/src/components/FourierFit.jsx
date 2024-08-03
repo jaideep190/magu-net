@@ -54,8 +54,8 @@ function FourierFit() {
           flexDirection: 'column', // Changed from 'row' to 'column'
           alignItems: 'center', // Center the images vertically
         }}>
-          <img src="/images/fourierfitsbp.png" alt="fourierfitsbp" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/fourierfitdbp.png" alt="fourierfitdbp" style={{ width: '80%', height: 'auto', borderRadius: '8px' }} />
+          <img src="/images/fourierfitsbp.png" alt="fourierfitsbp" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/fourierfitdbp.png" alt="fourierfitdbp" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
         </div>
       </Content>
     </Section>

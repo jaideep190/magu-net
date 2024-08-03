@@ -73,12 +73,12 @@ function Results() {
           flexDirection: 'column', // Changed from 'row' to 'column'
           alignItems: 'center', // Center the images vertically
         }}>
-          <img src="/images/error_metric.png" alt="data1" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/bhs_criteria.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/bhs_gradeB.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/error_plot1.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/blandaltman_plot.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
-          <img src="/images/error_comparisons.png" alt="data2" style={{ width: '80%', height: 'auto', borderRadius: '8px' }} />
+          <img src="/images/error_metric.png" alt="data1" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/bhs_criteria.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/bhs_gradeB.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/error_plot1.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/blandaltman_plot.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px', marginBottom: '1rem' }} /> {/* Added marginBottom to create space between images */}
+          <img src="/images/error_comparisons.png" alt="data2" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
         </div>
       </Content>
     </Section>

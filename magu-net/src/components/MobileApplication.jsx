@@ -73,7 +73,7 @@ function MobileApplication() {
           display: 'flex',
           justifyContent: 'center'
         }}>
-          <img src="/images/app.png" alt="Paper" style={{ width: '80%', height: 'auto', borderRadius: '8px' }} />
+          <img src="/images/app.png" alt="Paper" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
         </div>
         <div style={{ 
         display: 'flex',

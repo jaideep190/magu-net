@@ -65,7 +65,7 @@ function Introduction() {
           display: 'flex',
           justifyContent: 'center'
         }}>
-          <img src="/images/paper.png" alt="Paper" style={{ width: '80%', height: 'auto', borderRadius: '8px' }} />
+          <img src="/images/paper.png" alt="Paper" style={{ width: '100%', height: 'auto', borderRadius: '8px' }} />
         </div>
       <div style={{ 
         display: 'flex',
