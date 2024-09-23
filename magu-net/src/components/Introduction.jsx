@@ -71,7 +71,7 @@ function Introduction() {
         display: 'flex',
         justifyContent: 'center'
       }}>
-        <a href="https://drive.google.com/file/d/10uAircuhzgGHoexZ-j0F3pTDopLMNw0h/view" target="_blank" ><u>Access the paper</u></a>
+        <a href="https://drive.google.com/file/d/1zpYTLXo45w-gX77kJ8cRXxB94JZKDFwB/view" target="_blank" ><u>Access the paper</u></a>
       </div>
       </Content>
     </Section>
